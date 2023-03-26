@@ -1,4 +1,14 @@
 # Weed Selling Web Site
+[![Angular](https://img.shields.io/badge/angular-v13.0.0-red)](https://angular.io/)
+[![Node.js](https://img.shields.io/badge/node.js-v14.17.6-green)](https://nodejs.org/en/)
+[![npm](https://img.shields.io/badge/npm-v8.3.0-orange)](https://www.npmjs.com/)
+[![Java](https://img.shields.io/badge/java-v16-blue)](https://www.java.com/en/)
+[![Maven](https://img.shields.io/badge/maven-v3.8.2-orange)](https://maven.apache.org/)
+[![Spring Boot](https://img.shields.io/badge/spring_boot-v2.6.3-green)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/spring_boot-v2.6.3-green)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/java-v16-blue)](https://www.java.com/en/)
+[![Maven](https://img.shields.io/badge/maven-v3.8.2-orange)](https://maven.apache.org/)
+
 
 This is a web application for selling weed online. It includes a backend built with Spring Boot and a frontend built with Angular.
 
