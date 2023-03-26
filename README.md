@@ -54,8 +54,5 @@ If you would like to contribute to this project, follow these steps:
 
 ## License
 
-This project is licensed under the [LICENSE NAME HERE] license. See the LICENSE file for details.
+This project is licensed under the [weedplant.PVT] license. See the LICENSE file for details.
 
-## Acknowledgments
-
-* Any acknowledgments or credits can go here.
